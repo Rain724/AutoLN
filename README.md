@@ -1,12 +1,14 @@
 # AutoLN
 
-AutoLN is a script that, in conjunction with rTorrent's event system, will
-automatically sort and organize your downloads using symbolic links\* as they
+AutoLN is a script that, designed in conjunction with rTorrent's event system\*, will
+automatically sort and organize your downloads using symbolic links\*\* as they
 complete! In its current state, the script supports the sorting of TV shows
 only, but support for music, movies, and more are in the works. AutoLN can also
 live along side any scripts you currently have in place.
 
-\* Sorting/Organizing by copying is also supported.
+\* rTorrent is not required, though. AutoLN can be called from other scripts/applications too!
+\*\* Sorting/Organizing by copying is also supported.
+
 
 ## Installation
 
