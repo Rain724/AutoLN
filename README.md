@@ -49,7 +49,7 @@ works. Basic Regex knowledge is recommended for creating filters.
 ## Script usefulness
 
 If you already have a script that runs on completed torrents and would like
-to make use of AutoLN, it is easy! When AutoLN is executed, it outputs the
-path to the file that was organized (if `-q` or `-v` is not used). This will
-allow you to run AutoLN, store the sorted location of the completed file, and
-continue with your script on the (now sorted and properally named) file.
+to make use of AutoLN, it is easy! When AutoLN is executed, it simply outputs
+the path to the file that was organized (if `-q` or `-v` is not used). This
+will allow you to run AutoLN, store the sorted location of the completed file,
+and continue with your script on the (now sorted and properally named) file.
