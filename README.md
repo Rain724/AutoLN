@@ -6,7 +6,7 @@ complete! In its current state, the script supports the sorting of TV shows
 only, but support for music, movies, and more are in the works. AutoLN can also
 live along side any scripts you currently have in place.
 
-\* rTorrent is not required, though. AutoLN can be called from other scripts/applications too!
+\* rTorrent is not required, though. AutoLN can be called from other scripts/applications too!<br>
 \*\* Sorting/Organizing by copying is also supported.
 
 
