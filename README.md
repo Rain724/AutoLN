@@ -64,3 +64,4 @@ and continue with your script on the (now sorted and properally named) file.
 * Add Music support
 * Add Movie support (maybe)
 * Configurable E-mail on complete feature (ie: Send text message on complete)
+* Automatic unrar'ing of rar'ed downloads.
