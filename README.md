@@ -46,10 +46,21 @@ AutoLN, read the `documented_conf.conf` file. There is also a basic,
 undocumented config file for use once you understand how the configuration
 works. Basic Regex knowledge is recommended for creating filters.
 
-## Script usefulness
+Test your configuration and filters before you let rTorrent run the script,
+just to make sure everything works!
+
+## Script Usefulness
 
 If you already have a script that runs on completed torrents and would like
 to make use of AutoLN, it is easy! When AutoLN is executed, it simply outputs
 the path to the file that was organized (if `-q` or `-v` is not used). This
 will allow you to run AutoLN, store the sorted location of the completed file,
 and continue with your script on the (now sorted and properally named) file.
+
+## Future Plans
+
+* Clean up the code
+* Log file in a configurable location
+* Add Music support
+* Add Movie support (maybe)
+* Configurable E-mail on complete feature (ie: Send text message on complete)
