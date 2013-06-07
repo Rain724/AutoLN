@@ -39,7 +39,7 @@ readme.
 
 ## Configuration
 
-The default configuration file will be loaded from ~/autoln. If you need to
+The default configuration file will be loaded from ~/.autoln. If you need to
 use a configuration file other than the defualt, use the `-c [conf]`
 argument. All other command line arguments are explained in `--help`.
 
